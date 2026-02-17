@@ -41,3 +41,5 @@ React · JavaScript · Vite · Supabase · LocalStorage · Vitest
 Delivered a working MVP covering the full workflow:
 
 Login → GDPR Editing → Compliance Overview → Reports → Export
+
+Developed using Scrum and pair programming as part of DTU course 02369.
